@@ -23,7 +23,7 @@ public class HW4 {
             if (length == arr[0] || length == arr[3] || length == arr[6]) {
                 sb.append(lover.charAt(random.nextInt(lover.length())));
             }
-            if (length == arr[1] || length == arr[4] || length == arr[6]) {
+            if (length == arr[1] || length == arr[4] || length == arr[7]) {
                 sb.append(upper.charAt(random.nextInt(upper.length())));
             }
             if (length == arr[2] || length == arr[5]) {
